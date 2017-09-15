@@ -1,0 +1,1 @@
+elm make elmsrc/Main.elm --warn --output=elm.js
